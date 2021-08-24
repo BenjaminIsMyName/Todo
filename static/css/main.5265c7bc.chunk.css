@@ -1,0 +1,2 @@
+body{background:linear-gradient(45deg,#195680,#00f);min-height:100vh;margin:0;padding:0;display:grid;place-items:center}.todo-list{margin:auto;width:-webkit-fit-content;width:-moz-fit-content;width:fit-content;background-color:#00008b;box-shadow:2px 2px 5px #000;padding:20px;display:flex;flex-direction:column}.todo-item{color:#fff;font-size:2rem;margin:10px}.todo-item>p{margin-left:15px;display:inline}.todo-item>input{width:2rem;height:2rem}@media (max-width:400px){.todo-item{padding:30px 20px}}
+/*# sourceMappingURL=main.5265c7bc.chunk.css.map */
